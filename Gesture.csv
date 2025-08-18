@@ -1,0 +1,221 @@
+Date,Time,Status,Gender,Age,Age group
+06/06/25,10:00 AM,Complete,Male,27,<30
+06/06/25,10:00 AM,Complete,Male,26,<30
+06/06/25,,,,,
+06/06/25,,,,,
+06/06/25,11:30 AM,Complete,Male,22,<30
+06/06/25,11:30 AM,Complete,Female,34,30-39
+06/06/25,,,,,
+06/06/25,,,,,
+06/06/25,2:00 PM,Complete,Female,,50-59
+06/06/25,2:00 PM,Complete,Female,,30-39
+06/06/25,,,,,
+06/06/25,,,,,
+06/06/25,3:30 PM,Complete,Female,,40-49
+06/06/25,3:30 PM,Complete,Male,21,<30
+06/06/25,,,,,
+06/09/25,9:00 AM,Complete,Female,23,<30
+06/09/25,9:00 AM,No Show,Female,18,<30
+06/09/25,9:00 AM,Complete,Male,45,40-49
+06/09/25,,,,,
+06/09/25,10:30 AM,PT Cancelled,Male,52,50-59
+06/09/25,10:30 AM,Complete,Male,56,50-59
+06/09/25,10:30 AM,Complete,Female,24,<30
+06/09/25,,,,,
+06/09/25,12:45 PM,Complete,Female,82,60+
+06/09/25,12:45 PM,No Show,Male,48,40-49
+06/09/25,12:45 PM,Complete,Female,,<30
+06/09/25,,,,,
+06/09/25,2:15 PM,PT Cancelled,Male,65,60+
+06/09/25,2:15 PM,No Show,Male,30,30-39
+06/09/25,2:15 PM,Discard - Rejected,Male,33,30-39
+06/09/25,2:15 PM,Complete,Female,25,<30
+06/09/25,,,,,
+06/09/25,3:30 PM,Complete,Female,34,30-39
+06/09/25,3:30 PM,Complete,Male,29,<30
+06/09/25,,,,,
+06/10/25,9:00 AM,Complete,Female,54,50-59
+06/10/25,9:00 AM,Complete,Female,44,40-49
+06/10/25,9:00 AM,Overbooked,Female,50,50-59
+06/10/25,,,,,
+06/10/25,10:30 AM,PT Cancelled,Male,20,<30
+06/10/25,10:30 AM,PT Cancelled,Female,33,30-39
+06/10/25,10:30 AM,Complete,Male,21,<30
+06/10/25,10:30 AM,Complete,Male,36,30-39
+06/10/25,,,,,
+06/10/25,12:45 PM,No Show,Female,40,40-49
+06/10/25,12:45 PM,Complete,Male,46,40-49
+06/10/25,,,,,
+06/10/25,2:15 PM,PT Cancelled,,,
+06/10/25,2:15 PM,No Show,Male,20,<30
+06/10/25,2:15 PM,Complete,Female,25,<30
+06/10/25,2:15 PM,Complete,Male,25,<30
+06/10/25,,,,,
+06/10/25,3:30 PM,Complete,Male,51,50-59
+06/10/25,3:30 PM,Complete,Male,33,30-39
+06/10/25,3:30 PM,Overbooked,Female,37,30-39
+06/04/25,,,,,
+06/11/25,10:15 AM,Overbooked,Female,45,40-49
+06/11/25,10:15 AM,Complete,Female,36,30-39
+06/11/25,10:15 AM,Complete,Male,59,50-59
+06/11/25,,,,,
+06/11/25,11:45 AM,Complete,Female,18,<30
+06/11/25,11:45 AM,Complete,Female,18,<30
+06/11/25,,,,,
+06/11/25,2:00 PM,Complete,Male,23,<30
+06/11/25,2:00 PM,Complete,Female,40,40-49
+06/11/25,,,,,
+06/11/25,3:30 PM,Complete,Female,27,<30
+06/11/25,3:30 PM,No Show,Female,67,60+
+06/11/25,,,,,
+06/11/25,5:00 PM,Overbooked,Male,44,40-49
+06/11/25,5:00 PM,Complete,Female,30,30-39
+06/11/25,5:00 PM,Complete,Male,32,30-39
+06/05/25,,,,,
+06/12/25,8:45 AM,Complete,Female,49,40-49
+06/12/25,8:45 AM,Discard - Rejected,Male,54,50-59
+06/12/25,8:45 AM,,,,
+06/12/25,,,,,
+06/12/25,10:15 AM,Complete,Male,58,50-59
+06/12/25,10:15 AM,Complete,Male,33,30-39
+06/12/25,,,,,
+06/12/25,12:45 PM,Complete,Female,54,50-59
+06/12/25,12:45 PM,No Show,Female,33,30-39
+06/12/25,12:45 AM,Complete,Male,33,30-39
+06/12/25,,,,,
+06/12/25,2:15 PM,Complete,Male,,<30
+06/12/25,2:15 PM,No Show,Female,64,60+
+06/12/25,2:15 PM,No Show,Male,45,40-49
+06/12/25,2:15 PM,Complete,Male,25,<30
+06/12/25,,,,,
+06/12/25,3:45 PM,Complete,Male,46,40-49
+06/12/25,3:45 PM,Complete,Male,54,50-59
+06/12/25,3:45 PM,,,,
+06/06/25,,,,,
+06/13/25,8:45 AM,No Show,Male,24,<30
+06/13/25,8:45 AM,Complete,Female,22,<30
+06/13/25,8:45 AM,,,,
+06/13/25,,,,,
+06/13/25,10:15 AM,Complete,Male,23,<30
+06/13/25,10:15 AM,No Show,Female,24,<30
+06/13/25,,,,,
+06/13/25,12:45 PM,Complete,Female,66,60+
+06/13/25,12:45 PM,Complete,Male,38,30-39
+06/13/25,,,,,
+06/13/25,2:15 PM,Complete,Female,34,30-39
+06/13/25,2:15 PM,Complete,Female,34,30-39
+06/13/25,,,,,
+06/13/25,3:45 PM,Complete,Female,53,50-59
+06/13/25,3:45 PM,Complete,Female,34,30-39
+06/13/25,,,,,
+06/16/25,8:30 AM,Complete,Female,50,50-59
+06/16/25,8:30 AM,Complete,Male,27,<30
+06/16/25,,,,,
+06/16/25,10:00 AM,PT Cancelled,Male,48,40-49
+06/16/25,10:00 AM,No Show,Male,19,<30
+06/16/25,10:00 AM,PT Cancelled,Female,50,50-59
+06/16/25,10:00 AM,Complete,Female,,<30
+06/16/25,10:00 AM,Complete,Female,,50-59
+06/16/25,,,,,
+06/16/25,11:30 AM,Complete,Female,,30-39
+06/16/25,11:30 AM,No Show,Male,20,<30
+06/16/25,,,,,
+06/16/25,,,,,
+06/16/25,2:00 PM,PT Cancelled,Female,33,30-39
+06/16/25,2:00 PM,PT Cancelled,Male,30,30-39
+06/16/25,2:00 PM,Complete,Female,40,40-49
+06/16/25,2:00 PM,Complete,Male,25,<30
+06/16/25,,,,,
+06/16/25,4:30 PM,Complete,Male,65,60+
+06/16/25,4:30 PM,Complete,Male,28,<30
+06/16/25,,,,,
+06/17/25,8:45 AM,Complete,Male,23,<30
+06/17/25,8:45 AM,Complete,Female,55,50-59
+06/17/25,,,,,
+06/17/25,,,,,
+06/17/25,10:15 AM,Complete,Male,,30-39
+06/17/25,10:15 AM,Complete,Male,46,40-49
+06/17/25,,,,,
+06/17/25,12:45 PM,Complete,Female,35,30-39
+06/17/25,12:45 PM,Discard - Tech Issues,Female,36,30-39
+06/17/25,,,,,
+06/17/25,2:15 PM,Complete,Male,36,30-39
+06/17/25,2:15 PM,Complete,Female,54,50-59
+06/17/25,,,,,
+06/17/25,,,,,
+06/17/25,3:45 PM,Complete,Male,30,30-39
+06/17/25,3:45 PM,Complete,Female,27,<30
+06/17/25,,,,,
+06/18/25,8:45 AM,Complete,Male,22,<30
+06/18/25,8:45 AM,Complete,Male,42,40-49
+06/18/25,,,,,
+06/18/25,,,,,
+06/18/25,10:15 AM,Complete,Female,18,<30
+06/18/25,10:15 AM,Complete,Male,37,30-39
+06/18/25,,,,,
+06/18/25,12:45 PM,Complete,Male,54,50-59
+06/18/25,12:45 PM,Complete,Male,39,30-39
+06/18/25,,,,,
+06/18/25,2:15 PM,PT Cancelled,Male,,
+06/18/25,2:15 PM,Complete,Male,25,<30
+06/18/25,,,,,
+06/18/25,,,,,
+06/18/25,3:45 PM,Complete,Female,18,<30
+06/18/25,3:45 PM,Complete,Male,73,60+
+06/18/25,,,,,
+06/19/25,8:45 AM,No Show,Male,46,40-49
+06/19/25,8:45 AM,Complete,Male,26,<30
+06/19/25,8:45 AM,Complete,Female,23,<30
+06/19/25,,,,,
+06/19/25,10:15 AM,Complete,Male,27,<30
+06/19/25,10:15 AM,No Show,Male,23,<30
+06/19/25,,,,,
+06/19/25,12:45 PM,Complete,Male,48,40-49
+06/19/25,12:45 PM,Complete,Male,52,50-59
+06/19/25,,,,,
+06/19/25,2:15 PM,Overbooked,Female,36,30-39
+06/19/25,2:15 PM,Complete,Female,46,40-49
+06/19/25,2:15 PM,Complete,Male,26,<30
+06/19/25,3:45 PM,Complete,Male,34,30-39
+06/19/25,3:45 PM,No Show,Male,30,30-39
+06/19/25,3:45 PM,No Show,Male,54,50-59
+,,,,,
+06/20/25,8:45 AM,Complete,Male,36,30-39
+06/20/25,8:45 AM,Complete,Male,66,60+
+06/20/25,8:45 AM,Overbooked,Male,31,30-39
+06/20/25,,,,,
+06/20/25,10:15 AM,Complete,Female,45,40-49
+06/20/25,10:15 AM,No Show,Male,18,<30
+06/20/25,10:15 AM,Complete,Female,50,50-59
+06/20/25,,,,,
+06/20/25,12:45 PM,Complete,Female,58,50-59
+06/20/25,12:45 PM,Complete,Female,38,30-39
+06/20/25,,,,,
+06/20/25,2:15 PM,PT Cancelled,Male,40,40-49
+06/20/25,2:15 PM,PT Cancelled,Female,65,60+
+06/20/25,2:15 PM,Complete,Female,31,30-39
+06/20/25,2:15 PM,Complete,Female,37,30-39
+06/20/25,,,,,
+06/20/25,3:45 PM,Complete,Female,37,30-39
+06/20/25,3:45 PM,PT Cancelled,Male,45,40-49
+06/20/25,3:45 PM,PT Cancelled,Male,24,<30
+06/20/25,3:45 PM,Complete,Female,46,40-49
+,,,,,
+06/23/25,8:45 AM,Overbooked,Male,52,50-59
+06/23/25,8:45 AM,Complete,Male,63,60+
+06/23/25,8:45 AM,Complete,Female,49,40-49
+06/23/25,,,,,
+06/23/25,,,,,
+06/23/25,10:15 AM,Complete,Female,39,30-39
+06/23/25,10:15 AM,Complete,Male,59,50-59
+06/23/25,,,,,
+06/23/25,12:45 PM,PT Cancelled,Female,39,30-39
+06/23/25,12:45 PM,Complete,Male,20,<30
+06/23/25,,,,,
+06/23/25,2:15 PM,Complete,Female,47,40-49
+06/23/25,2:15 PM,Complete,Male,19,<30
+06/23/25,,,,,
+06/23/25,,,,,
+06/23/25,3:45 PM,Complete,Female,25,<30
+06/23/25,3:45 PM,Complete,Female,36,30-39
+06/23/25,,,,,
